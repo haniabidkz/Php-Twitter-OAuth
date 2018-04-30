@@ -4,11 +4,13 @@
 
 2. If You are testing this on Live server then in the Config.php Replace Localhost with your Domain Name.
 
-2. This Project uses [PHP TwiterOAuth Library](https://twitteroauth.com/) for OAUTH Protocol Since Twitter REST API uses OAUTH Protocol Authentication.
+3. Run index.php file.
 
-4. You are Free to Copy,Distrubute, Modified it Completly.
+4. This Project uses [PHP TwiterOAuth Library](https://twitteroauth.com/) for OAUTH Protocol Since Twitter REST API uses OAUTH Protocol Authentication.
 
-5. Happy Coding, Enjoy !
+5. You are Free to Copy,Distrubute, Modified it Completly.
+
+6. Happy Coding, Enjoy !
 
 
 
