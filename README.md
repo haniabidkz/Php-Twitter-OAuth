@@ -1,4 +1,4 @@
-## Twiter OAUTH in PHP - Add Tweet, Show Profile Info/Tweets and Followers.
+## Twiter OAUTH in PHP - Add tweet, Show profile info/tweets and followers.
 
 -Get twiter consumer API key and consumer API secret from apps.twitter.com.  
 -Open config.php and enter the above credentials.  
