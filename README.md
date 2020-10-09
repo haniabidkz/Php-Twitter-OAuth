@@ -1,16 +1,9 @@
-## Twiter OAUTH in PHP - Add Tweet,Show Profile Info/Tweets and Followers.
+## Twiter OAUTH in PHP - Add Tweet, Show Profile Info/Tweets and Followers.
 
-1. Open Config.PHP and enter Your Consumer API Key and Consumer API Secret Which You Have Obtained After Registrating Your App on apps.twitter.com
-
-2. If You are testing this on Live server then in the Config.php Replace Localhost with your Domain Name.
-
-3. Run index.php file.
-
-4. This Project uses [PHP TwiterOAuth Library](https://twitteroauth.com/) for OAUTH Protocol Since Twitter REST API uses OAUTH Protocol Authentication.
-
-5. You are Free to Copy,Distrubute, Modified it Completly.
-
-6. Happy Coding, Enjoy !
+-Open config.php and enter Your consumer API key and consumer API secret which you can obtained from apps.twitter.com.
+-Replace localhost with your hostname(if any) in config.php.
+-This project use [PHP TwiterOAuth Library] for OAUTH protocol since twitter REST API uses OAUTH protocol authentication.
+-To test: localhost/index.php.
 
 
 
